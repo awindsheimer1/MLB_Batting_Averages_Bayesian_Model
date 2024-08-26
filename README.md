@@ -1,4 +1,4 @@
-# MLB_Batting_Averages_Bayesian_Model
+# Bayesian Model for MLB Batting Average Prediction
 
 ## Project Overview
 This project aims to predict second-half MLB batting averages using players' first-half performance. By employing a Bayesian hierarchical model, this project provides more accurate and interpretable predictions, accounting for basic prior knowledge about MLB hitters.
